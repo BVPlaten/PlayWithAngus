@@ -1,4 +1,5 @@
 import { Component, OnInit } from '@angular/core';
+import PicsJson from '../../assets/pics/picList.json';
 
 @Component({
   selector: 'app-show-picture',
@@ -7,12 +8,14 @@ import { Component, OnInit } from '@angular/core';
 })
 export class ShowPictureComponent implements OnInit {
 
-  constructor() { }
+  constructor() {
+    console.table(PicsJson.pics);
+   }
 
   ngOnInit(): void {
 
-    var data = require('asset/pics/picList.json');
-    console.log("Json data : ", JSON.stringify(data));
+    //var data = require('asset/pics/picList.json');
+    //console.log("Json data : ", JSON.stringify(data));
   }
 
 }
