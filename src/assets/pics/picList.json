@@ -1,0 +1,39 @@
+{
+	"pics": [{
+		"path": "./assets/pics/IMG-20170221-WA0000.jpeg",
+		"picId": "picture_01",
+		"description": "n.a."
+	}, {
+		"path": "./assets/pics/IMG-20170223-WA0009.jpg",
+		"picId": "picture_01",
+		"description": "n.a."
+	}, {
+		"path": "./assets/pics/IMG_20170131_083325763.jpg",
+		"picId": "picture_01",
+		"description": "n.a."
+	}, {
+		"path": "./assets/pics/IMG_20211102_072513.jpg",
+		"picId": "picture_01",
+		"description": "n.a."
+	}, {
+		"path": "./assets/pics/IMG_20211110_074825.jpg",
+		"picId": "picture_01",
+		"description": "n.a."
+	}, {
+		"path": "./assets/pics/IMG_20211213_145249.jpg",
+		"picId": "picture_01",
+		"description": "n.a."
+	}, {
+		"path": "./assets/pics/IMG_20220102_142655.jpg",
+		"picId": "picture_01",
+		"description": "n.a."
+	}, {
+		"path": "./assets/pics/IMG_20220418_080803.jpg",
+		"picId": "picture_01",
+		"description": "n.a."
+	}, {
+		"path": "./assets/pics/IMG_20220418_081759.jpg",
+		"picId": "picture_01",
+		"description": "n.a."
+	}]
+}
